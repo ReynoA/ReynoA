@@ -1,10 +1,10 @@
-<h1>Hi, I'm Angel, an <a href="www.linkedin.com/in/angel-reynoso-00359959">IT Professional</a>☺</h1>
+<h1>Hi, I'm Angel, an <a href="www.linkedin.com/in/angel-reynoso-00359959">IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
   - [Active Directory Lab (Azure)](https://github.com/ReynoA/it-helpdesk-labs/tree/main/active-directory-lab)
-  - [DNS Lab]([www.linkedin.com/in/angel-reynoso-00359959](https://github.com/ReynoA/it-helpdesk-labs/tree/main/dns-lab))
+  - [DNS Lab](https://github.com/ReynoA/it-helpdesk-labs/tree/main/dns-lab)
 
 <h2>🤳Connect with me:</h2>
 
